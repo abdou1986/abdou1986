@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdou1986
 - 👀 I’m interested in system design and ML
-- 🌱 I’m currently learning microservice architecture 
+- 🌱 I’m currently learning microservices  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
